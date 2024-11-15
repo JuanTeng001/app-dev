@@ -1,5 +1,5 @@
 # app-dev
-**My favorite sereies**
+## **My favorite sereies**
 - How not to summon a demon-lord
 - Konosuba!
 - Overlord
